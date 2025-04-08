@@ -2,8 +2,8 @@ import { IP_ADDR } from "./ip-addr";
 import FormData from 'form-data';
 
 //To toggle between testing locally and online server
-//const URL = `http://${IP_ADDR}:8000/api/`; // To test and run locally
-const URL = `http://170.64.199.247/api/`; // To test and run on cloud server
+const URL = `http://${IP_ADDR}:8000/api/`; // To test and run locally
+//const URL = `http://170.64.199.247/api/`; // To test and run on cloud server
 
 //User Authentication Functions
 
